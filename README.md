@@ -5,7 +5,7 @@
 > On this project, we had to build two bubble sort methods in ruby, while on the second one we were required to sort the array by passing a block and using 'yield' on the method.
 
 <p align="center">
-![Bubble Sort Demonstration](./bubble-sort.png)
+![Bubble Sort Demonstration](./bubble-sort.gib)
 </p>
 
 This is how the bubble sort works: by comparing the current position on the array with the next one, until the last index of the array.
