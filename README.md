@@ -4,9 +4,8 @@
 
 > On this project, we had to build two bubble sort methods in ruby, while on the second one we were required to sort the array by passing a block and using 'yield' on the method.
 
-<p align="center">
 ![Bubble Sort Demonstration](./bubble-sort.gif)
-</p>
+
 
 This is how the bubble sort works: by comparing the current position on the array with the next one, until the last index of the array.
 And then, the process is repeated until the array is arranged in a crescent way.
@@ -26,7 +25,7 @@ And then, the process is repeated until the array is arranged in a crescent way.
 
 - GitHub: [@Amalcxc](https://github.com/Amalcxc)
 - Twitter: [@Amalcx4](https://twitter.com/Amalcx4)
-- LinkedIn: [Amal Hersi](https://www.linkedin.com/in/amal-hersi-a29583205/ )
+- LinkedIn: [Amal Hersi](https://www.linkedin.com/in/amal-hersi-a29583205/)
 
 👤 **Fernando Marques**
 
