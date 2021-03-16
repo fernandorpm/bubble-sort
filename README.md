@@ -18,6 +18,26 @@ And then, the process is repeated until the array is arranged in a crescent way.
 
 [Live Demo Link](https://repl.it/join/yvcivqyx-fernandorpm)
 
+## Getting Started
+
+### Prerequisites
+
+- Ruby
+
+### Setup
+
+- Create a new folder/directory for the project
+- Be sure to have a Github account and that this account is connected locally on your PC
+
+### Install
+
+- Go to the desired directory on your terminal
+- `git clone https://github.com/fernandorpm/bubble-sort.git`
+
+### Run
+
+- While you're in the directory of Github clone: `ruby bubble_sort.rb`
+
 
 ## Authors
 
