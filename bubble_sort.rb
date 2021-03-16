@@ -13,8 +13,6 @@ def bubble_sort(arr)
   arr
 end
 
-bubble_sort([14, 56, 2, 78, 9])
-
 # Sorting with blocks + yield =============================
 
 def bubble_sort_by(arr)
@@ -32,5 +30,3 @@ def bubble_sort_by(arr)
 
   arr
 end
-
-bubble_sort_by(%w[ohayou hi hello hey horray]) { |a, b| a.length - b.length }
